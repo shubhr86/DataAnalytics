@@ -11,6 +11,7 @@ Each project is focused, self-contained, and aimed at solving real-world problem
 | Project Name | Tools Used | Description |
 |--------------|------------|-------------|
 | [Netflix Content Analysis](./Projects/Netflix%20DataSet%20Project) | Excel | Explores Netflix movies and TV shows by genres, ratings, content type, and release trends using Pivot Tables and charts. |
+| [Superstore Sales Analysis](./Projects/Sales%20Super%20Store%20Project) | Excel | The dataset mimics real-world business sales data, including order IDs, dates, products, customer segments, regions, and profit margins. |
 | _More coming soon..._ | _Excel / Python_ | Stay tuned for new projects exploring sales, music, sports, and more! |
 
 ---
